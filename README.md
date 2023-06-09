@@ -1,16 +1,14 @@
-### Hi there 👋
+👋 **Hello** Guys, **Welcome** To **Mr-BKM**'s Github
 
-<!--
-**Mr-BKM/Mr-BKM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+𝗠𝗬 𝗣𝗥𝗢𝗙𝗜𝗟𝗘
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• 𝐍𝐚𝐦𝐞 : 𝐁𝐊𝐌 😉
+
+• 𝐀𝐠𝐞 : 𝟏𝟕
+
+• 𝐏𝐥𝐚𝐜𝐞 : 𝐖𝐞𝐬𝐭 𝐁𝐞𝐧𝐠𝐚𝐥, 𝐌𝐚𝐧𝐢𝐤𝐩𝐮𝐫 
+
+• 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 : 𝐁𝐞𝐧𝐠𝐚𝐥𝐢, 𝐄𝐧𝐠𝐥𝐢𝐬𝐡
+
+- 𝐌𝐨𝐬𝐭 𝐀𝐜𝐭𝐢𝐯𝐞 𝐎𝐧 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 🔥
