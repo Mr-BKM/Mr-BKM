@@ -32,6 +32,6 @@ I Am a Small Telegram Bot Maker, You Can See My [Projects](https://github.com/Mr
 <a href="https://www.instagram.com/helloputulmaity"><img alt="telegram" src="https://img.shields.io/badge/Instagram-%22B1B17.svg?&logo=instagram&logoColor=red"></a>
 <a href="https://www.facebook.com/helloputulmaity"><img alt="facebook" src="https://img.shields.io/badge/FaceBook-%22B1B17.svg?&logo=facebook&logoColor=blue"></a>
 
-<img width="50%" src="https://gpvc.arturio.dev/Mr-BKM" alt="Profile Views" />
+[![](https://visitcount.itsvg.in/api?id=Mr-BKM&icon=5&color=12)](https://visitcount.itsvg.in)
 
 
