@@ -1,9 +1,10 @@
-👋 **Hello** Guys, **Welcome** To **Mr-BKM**'s Github
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Mr-BKM's+GitHub..!;I'm+Mr+BKM+TG..!;I'm+a+Small+Telegram+Bot+Maker..!)</p>
+<p align="center">
 
 | Emoji | Details | Info |
 | ---- | ---- | ---- |
 | 🤵 | Name | BKM |
-| 📆 | Age| 🔞 |
+| 📆 | Age| 17 |
 | 🏞️ | Place | West Bengal Manikpur |
 | 📣 | Language | English |
   
@@ -19,7 +20,7 @@
 
 I Am a Small Telegram Bot Maker, You Can See My [Projects](https://github.com/Mr-BKM/Open-Source). If You Like My Work You Can Support. 
 
-☎️ **Contect Here**
+☎️ **Contact Here**
 
 <a href="https://telegram.dog/BKM_TG"><img alt="telegram" src="https://img.shields.io/badge/Telegram-%22B1B17.svg?&logo=telegram&logoColor=white"></a>
 <a href="https://www.instagram.com/bkm_tg"><img alt="telegram" src="https://img.shields.io/badge/Instagram-%22B1B17.svg?&logo=instagram&logoColor=red"></a>
